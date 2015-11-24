@@ -7,6 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE1842161BF1C48A00193182 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841EA1BF1C48A00193182 /* background.png */; };
+		DE1842171BF1C48A00193182 /* broly.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841EB1BF1C48A00193182 /* broly.png */; };
+		DE1842181BF1C48A00193182 /* ground.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841EC1BF1C48A00193182 /* ground.png */; };
+		DE1842191BF1C48A00193182 /* @2xicon120.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841EE1BF1C48A00193182 /* @2xicon120.png */; };
+		DE18421A1BF1C48A00193182 /* @2xicon58.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841EF1BF1C48A00193182 /* @2xicon58.png */; };
+		DE18421B1BF1C48A00193182 /* @2xicon80.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F01BF1C48A00193182 /* @2xicon80.png */; };
+		DE18421C1BF1C48A00193182 /* @2xicon@120.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F11BF1C48A00193182 /* @2xicon@120.png */; };
+		DE18421D1BF1C48A00193182 /* @2xicon@58.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F21BF1C48A00193182 /* @2xicon@58.png */; };
+		DE18421E1BF1C48A00193182 /* @2xicon@80.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F31BF1C48A00193182 /* @2xicon@80.png */; };
+		DE18421F1BF1C48A00193182 /* @3xicon120.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F41BF1C48A00193182 /* @3xicon120.png */; };
+		DE1842201BF1C48A00193182 /* @3xicon180.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F51BF1C48A00193182 /* @3xicon180.png */; };
+		DE1842211BF1C48A00193182 /* @3xicon87.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F61BF1C48A00193182 /* @3xicon87.png */; };
+		DE1842221BF1C48A00193182 /* @3xicon@120.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F71BF1C48A00193182 /* @3xicon@120.png */; };
+		DE1842231BF1C48A00193182 /* @3xicon@180.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F81BF1C48A00193182 /* @3xicon@180.png */; };
+		DE1842241BF1C48A00193182 /* @3xicon@87.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841F91BF1C48A00193182 /* @3xicon@87.png */; };
+		DE1842251BF1C48A00193182 /* goku.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841FA1BF1C48A00193182 /* goku.png */; };
+		DE1842261BF1C48A00193182 /* vegeta.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841FB1BF1C48A00193182 /* vegeta.png */; };
+		DE1842271BF1C48A00193182 /* king_kia.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841FC1BF1C48A00193182 /* king_kia.png */; };
+		DE1842281BF1C48A00193182 /* namek.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841FD1BF1C48A00193182 /* namek.png */; };
+		DE1842291BF1C48A00193182 /* pipeDown.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841FE1BF1C48A00193182 /* pipeDown.png */; };
+		DE18422A1BF1C48A00193182 /* pipeUp.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1841FF1BF1C48A00193182 /* pipeUp.png */; };
+		DE18422B1BF1C48A00193182 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1842021BF1C48A00193182 /* AppDelegate.swift */; };
+		DE18422C1BF1C48A00193182 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE1842031BF1C48A00193182 /* Assets.xcassets */; };
+		DE18422D1BF1C48A00193182 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE1842041BF1C48A00193182 /* LaunchScreen.storyboard */; };
+		DE18422E1BF1C48A00193182 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE1842061BF1C48A00193182 /* Main.storyboard */; };
+		DE18422F1BF1C48A00193182 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = DE1842081BF1C48A00193182 /* GameScene.sks */; };
+		DE1842301BF1C48A00193182 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1842091BF1C48A00193182 /* GameScene.swift */; };
+		DE1842311BF1C48A00193182 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE18420A1BF1C48A00193182 /* GameViewController.swift */; };
+		DE1842321BF1C48A00193182 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DE18420B1BF1C48A00193182 /* Info.plist */; };
+		DE1842331BF1C48A00193182 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DE1842101BF1C48A00193182 /* Info.plist */; };
+		DE1842341BF1C48A00193182 /* Sayin_RaceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1842111BF1C48A00193182 /* Sayin_RaceTests.swift */; };
+		DE1842351BF1C48A00193182 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DE1842131BF1C48A00193182 /* Info.plist */; };
+		DE1842361BF1C48A00193182 /* Sayin_RaceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1842141BF1C48A00193182 /* Sayin_RaceUITests.swift */; };
+		DE1842371BF1C48A00193182 /* ssj_broly.png in Resources */ = {isa = PBXBuildFile; fileRef = DE1842151BF1C48A00193182 /* ssj_broly.png */; };
 		DEB589251BE0B490003E8D59 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB589241BE0B490003E8D59 /* AppDelegate.swift */; };
 		DEB589271BE0B490003E8D59 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = DEB589261BE0B490003E8D59 /* GameScene.sks */; };
 		DEB589291BE0B490003E8D59 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB589281BE0B490003E8D59 /* GameScene.swift */; };
@@ -36,6 +70,41 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DE1841EA1BF1C48A00193182 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		DE1841EB1BF1C48A00193182 /* broly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = broly.png; sourceTree = "<group>"; };
+		DE1841EC1BF1C48A00193182 /* ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ground.png; sourceTree = "<group>"; };
+		DE1841EE1BF1C48A00193182 /* @2xicon120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@2xicon120.png"; sourceTree = "<group>"; };
+		DE1841EF1BF1C48A00193182 /* @2xicon58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@2xicon58.png"; sourceTree = "<group>"; };
+		DE1841F01BF1C48A00193182 /* @2xicon80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@2xicon80.png"; sourceTree = "<group>"; };
+		DE1841F11BF1C48A00193182 /* @2xicon@120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@2xicon@120.png"; sourceTree = "<group>"; };
+		DE1841F21BF1C48A00193182 /* @2xicon@58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@2xicon@58.png"; sourceTree = "<group>"; };
+		DE1841F31BF1C48A00193182 /* @2xicon@80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@2xicon@80.png"; sourceTree = "<group>"; };
+		DE1841F41BF1C48A00193182 /* @3xicon120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@3xicon120.png"; sourceTree = "<group>"; };
+		DE1841F51BF1C48A00193182 /* @3xicon180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@3xicon180.png"; sourceTree = "<group>"; };
+		DE1841F61BF1C48A00193182 /* @3xicon87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@3xicon87.png"; sourceTree = "<group>"; };
+		DE1841F71BF1C48A00193182 /* @3xicon@120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@3xicon@120.png"; sourceTree = "<group>"; };
+		DE1841F81BF1C48A00193182 /* @3xicon@180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@3xicon@180.png"; sourceTree = "<group>"; };
+		DE1841F91BF1C48A00193182 /* @3xicon@87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "@3xicon@87.png"; sourceTree = "<group>"; };
+		DE1841FA1BF1C48A00193182 /* goku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goku.png; sourceTree = "<group>"; };
+		DE1841FB1BF1C48A00193182 /* vegeta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vegeta.png; sourceTree = "<group>"; };
+		DE1841FC1BF1C48A00193182 /* king_kia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = king_kia.png; sourceTree = "<group>"; };
+		DE1841FD1BF1C48A00193182 /* namek.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = namek.png; sourceTree = "<group>"; };
+		DE1841FE1BF1C48A00193182 /* pipeDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pipeDown.png; sourceTree = "<group>"; };
+		DE1841FF1BF1C48A00193182 /* pipeUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pipeUp.png; sourceTree = "<group>"; };
+		DE1842021BF1C48A00193182 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DE1842031BF1C48A00193182 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DE1842051BF1C48A00193182 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DE1842071BF1C48A00193182 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DE1842081BF1C48A00193182 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		DE1842091BF1C48A00193182 /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		DE18420A1BF1C48A00193182 /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		DE18420B1BF1C48A00193182 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE18420C1BF1C48A00193182 /* Sayin Race.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Sayin Race.xcodeproj"; sourceTree = "<group>"; };
+		DE1842101BF1C48A00193182 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE1842111BF1C48A00193182 /* Sayin_RaceTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sayin_RaceTests.swift; sourceTree = "<group>"; };
+		DE1842131BF1C48A00193182 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE1842141BF1C48A00193182 /* Sayin_RaceUITests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sayin_RaceUITests.swift; sourceTree = "<group>"; };
+		DE1842151BF1C48A00193182 /* ssj_broly.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ssj_broly.png; sourceTree = "<group>"; };
 		DEB589211BE0B490003E8D59 /* Sayin Race.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sayin Race.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEB589241BE0B490003E8D59 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DEB589261BE0B490003E8D59 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -78,6 +147,94 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		DE1841E91BF1C48A00193182 /* ImagesBroly */ = {
+			isa = PBXGroup;
+			children = (
+				DE1841EA1BF1C48A00193182 /* background.png */,
+				DE1841EB1BF1C48A00193182 /* broly.png */,
+				DE1841EC1BF1C48A00193182 /* ground.png */,
+				DE1841ED1BF1C48A00193182 /* icon */,
+				DE1841FC1BF1C48A00193182 /* king_kia.png */,
+				DE1841FD1BF1C48A00193182 /* namek.png */,
+				DE1841FE1BF1C48A00193182 /* pipeDown.png */,
+				DE1841FF1BF1C48A00193182 /* pipeUp.png */,
+				DE1842001BF1C48A00193182 /* Sayin Race */,
+				DE1842151BF1C48A00193182 /* ssj_broly.png */,
+			);
+			name = ImagesBroly;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		DE1841ED1BF1C48A00193182 /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				DE1841EE1BF1C48A00193182 /* @2xicon120.png */,
+				DE1841EF1BF1C48A00193182 /* @2xicon58.png */,
+				DE1841F01BF1C48A00193182 /* @2xicon80.png */,
+				DE1841F11BF1C48A00193182 /* @2xicon@120.png */,
+				DE1841F21BF1C48A00193182 /* @2xicon@58.png */,
+				DE1841F31BF1C48A00193182 /* @2xicon@80.png */,
+				DE1841F41BF1C48A00193182 /* @3xicon120.png */,
+				DE1841F51BF1C48A00193182 /* @3xicon180.png */,
+				DE1841F61BF1C48A00193182 /* @3xicon87.png */,
+				DE1841F71BF1C48A00193182 /* @3xicon@120.png */,
+				DE1841F81BF1C48A00193182 /* @3xicon@180.png */,
+				DE1841F91BF1C48A00193182 /* @3xicon@87.png */,
+				DE1841FA1BF1C48A00193182 /* goku.png */,
+				DE1841FB1BF1C48A00193182 /* vegeta.png */,
+			);
+			path = icon;
+			sourceTree = "<group>";
+		};
+		DE1842001BF1C48A00193182 /* Sayin Race */ = {
+			isa = PBXGroup;
+			children = (
+				DE1842011BF1C48A00193182 /* Sayin Race */,
+				DE18420C1BF1C48A00193182 /* Sayin Race.xcodeproj */,
+				DE18420F1BF1C48A00193182 /* Sayin RaceTests */,
+				DE1842121BF1C48A00193182 /* Sayin RaceUITests */,
+			);
+			path = "Sayin Race";
+			sourceTree = "<group>";
+		};
+		DE1842011BF1C48A00193182 /* Sayin Race */ = {
+			isa = PBXGroup;
+			children = (
+				DE1842021BF1C48A00193182 /* AppDelegate.swift */,
+				DE1842031BF1C48A00193182 /* Assets.xcassets */,
+				DE1842041BF1C48A00193182 /* LaunchScreen.storyboard */,
+				DE1842061BF1C48A00193182 /* Main.storyboard */,
+				DE1842081BF1C48A00193182 /* GameScene.sks */,
+				DE1842091BF1C48A00193182 /* GameScene.swift */,
+				DE18420A1BF1C48A00193182 /* GameViewController.swift */,
+				DE18420B1BF1C48A00193182 /* Info.plist */,
+			);
+			path = "Sayin Race";
+			sourceTree = "<group>";
+		};
+		DE18420D1BF1C48A00193182 /* Products */ = {
+			isa = PBXGroup;
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DE18420F1BF1C48A00193182 /* Sayin RaceTests */ = {
+			isa = PBXGroup;
+			children = (
+				DE1842101BF1C48A00193182 /* Info.plist */,
+				DE1842111BF1C48A00193182 /* Sayin_RaceTests.swift */,
+			);
+			path = "Sayin RaceTests";
+			sourceTree = "<group>";
+		};
+		DE1842121BF1C48A00193182 /* Sayin RaceUITests */ = {
+			isa = PBXGroup;
+			children = (
+				DE1842131BF1C48A00193182 /* Info.plist */,
+				DE1842141BF1C48A00193182 /* Sayin_RaceUITests.swift */,
+			);
+			path = "Sayin RaceUITests";
+			sourceTree = "<group>";
+		};
 		DEB589181BE0B490003E8D59 = {
 			isa = PBXGroup;
 			children = (
@@ -107,6 +264,7 @@
 				DEB5892A1BE0B490003E8D59 /* GameViewController.swift */,
 				DEB5892C1BE0B490003E8D59 /* Main.storyboard */,
 				DEB5892F1BE0B490003E8D59 /* Assets.xcassets */,
+				DE1841E91BF1C48A00193182 /* ImagesBroly */,
 				DEB589311BE0B490003E8D59 /* LaunchScreen.storyboard */,
 				DEB589341BE0B490003E8D59 /* Info.plist */,
 			);
@@ -224,6 +382,12 @@
 			mainGroup = DEB589181BE0B490003E8D59;
 			productRefGroup = DEB589221BE0B490003E8D59 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = DE18420D1BF1C48A00193182 /* Products */;
+					ProjectRef = DE18420C1BF1C48A00193182 /* Sayin Race.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				DEB589201BE0B490003E8D59 /* Sayin Race */,
@@ -238,10 +402,39 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE18422D1BF1C48A00193182 /* LaunchScreen.storyboard in Resources */,
 				DEB589271BE0B490003E8D59 /* GameScene.sks in Resources */,
+				DE1842251BF1C48A00193182 /* goku.png in Resources */,
+				DE18421B1BF1C48A00193182 /* @2xicon80.png in Resources */,
+				DE18421F1BF1C48A00193182 /* @3xicon120.png in Resources */,
+				DE1842211BF1C48A00193182 /* @3xicon87.png in Resources */,
+				DE1842291BF1C48A00193182 /* pipeDown.png in Resources */,
+				DE18422E1BF1C48A00193182 /* Main.storyboard in Resources */,
+				DE1842321BF1C48A00193182 /* Info.plist in Resources */,
+				DE18422C1BF1C48A00193182 /* Assets.xcassets in Resources */,
+				DE18421C1BF1C48A00193182 /* @2xicon@120.png in Resources */,
+				DE1842161BF1C48A00193182 /* background.png in Resources */,
+				DE1842241BF1C48A00193182 /* @3xicon@87.png in Resources */,
+				DE18422F1BF1C48A00193182 /* GameScene.sks in Resources */,
+				DE18421A1BF1C48A00193182 /* @2xicon58.png in Resources */,
+				DE1842181BF1C48A00193182 /* ground.png in Resources */,
+				DE1842351BF1C48A00193182 /* Info.plist in Resources */,
+				DE1842171BF1C48A00193182 /* broly.png in Resources */,
+				DE1842281BF1C48A00193182 /* namek.png in Resources */,
 				DEB589331BE0B490003E8D59 /* LaunchScreen.storyboard in Resources */,
+				DE18422A1BF1C48A00193182 /* pipeUp.png in Resources */,
 				DEB589301BE0B490003E8D59 /* Assets.xcassets in Resources */,
+				DE1842231BF1C48A00193182 /* @3xicon@180.png in Resources */,
+				DE18421D1BF1C48A00193182 /* @2xicon@58.png in Resources */,
 				DEB5892E1BE0B490003E8D59 /* Main.storyboard in Resources */,
+				DE18421E1BF1C48A00193182 /* @2xicon@80.png in Resources */,
+				DE1842261BF1C48A00193182 /* vegeta.png in Resources */,
+				DE1842191BF1C48A00193182 /* @2xicon120.png in Resources */,
+				DE1842221BF1C48A00193182 /* @3xicon@120.png in Resources */,
+				DE1842371BF1C48A00193182 /* ssj_broly.png in Resources */,
+				DE1842271BF1C48A00193182 /* king_kia.png in Resources */,
+				DE1842201BF1C48A00193182 /* @3xicon180.png in Resources */,
+				DE1842331BF1C48A00193182 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,8 +459,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE1842301BF1C48A00193182 /* GameScene.swift in Sources */,
+				DE1842361BF1C48A00193182 /* Sayin_RaceUITests.swift in Sources */,
+				DE18422B1BF1C48A00193182 /* AppDelegate.swift in Sources */,
+				DE1842341BF1C48A00193182 /* Sayin_RaceTests.swift in Sources */,
 				DEB589291BE0B490003E8D59 /* GameScene.swift in Sources */,
 				DEB5892B1BE0B490003E8D59 /* GameViewController.swift in Sources */,
+				DE1842311BF1C48A00193182 /* GameViewController.swift in Sources */,
 				DEB589251BE0B490003E8D59 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,6 +502,22 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		DE1842041BF1C48A00193182 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DE1842051BF1C48A00193182 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		DE1842061BF1C48A00193182 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DE1842071BF1C48A00193182 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
 		DEB5892C1BE0B490003E8D59 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -409,6 +623,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Sayin Race/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.CKSparc.Sayin-Race";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -420,6 +635,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "Sayin Race/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.CKSparc.Sayin-Race";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -495,6 +711,7 @@
 				DEB5894F1BE0B490003E8D59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DEB589501BE0B490003E8D59 /* Build configuration list for PBXNativeTarget "Sayin RaceTests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +720,7 @@
 				DEB589521BE0B490003E8D59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DEB589531BE0B490003E8D59 /* Build configuration list for PBXNativeTarget "Sayin RaceUITests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +729,7 @@
 				DEB589551BE0B490003E8D59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
